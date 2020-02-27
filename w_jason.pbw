@@ -1,8 +1,9 @@
 Save Format v3.0(19990112)
 @begin Unchecked
+ 0 "D:\\powerbuilder\\apirest\\app.pbt";
 @end;
 @begin Targets
- 0 "app.pbt";
+ 0 "D:\\powerbuilder\\apirest\\app.pbt";
 @end;
-DefaultTarget "app.pbt";
-DefaultRemoteTarget "app.pbt";
+DefaultTarget "D:\\powerbuilder\\apirest\\app.pbt";
+DefaultRemoteTarget "D:\\powerbuilder\\apirest\\app.pbt";
