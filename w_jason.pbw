@@ -3,7 +3,7 @@ Save Format v3.0(19990112)
  0 "D:\\powerbuilder\\apirest\\app.pbt";
 @end;
 @begin Targets
- 0 "D:\\powerbuilder\\apirest\\app.pbt";
+ 0 "tarapp.pbt";
 @end;
-DefaultTarget "D:\\powerbuilder\\apirest\\app.pbt";
-DefaultRemoteTarget "D:\\powerbuilder\\apirest\\app.pbt";
+DefaultTarget "tarapp.pbt";
+DefaultRemoteTarget "tarapp.pbt";
